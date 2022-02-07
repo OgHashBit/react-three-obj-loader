@@ -67,7 +67,7 @@ class App extends Component {
                 // change some custom props of the element: placement, color, rotation, anything that should be
                 // done once the model was loaded and ready for display
                 el.position.set(0, -150,0 );
-                el.material.color.set(#9A0290);
+                el.material.color.set(9A0290);
                 el.rotation.x = 23.5;
 
                 // make this element available inside of the whole component to do any animation later
